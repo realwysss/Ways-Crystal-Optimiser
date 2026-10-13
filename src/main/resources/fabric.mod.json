@@ -1,0 +1,33 @@
+{
+	"schemaVersion": 1,
+	"id": "ways-crystal-optimiser",
+	"version": "${version}",
+	"name": "Ways Crystal Optimiser",
+	"icon": "icon.png",
+	"description": "Removes the annoying placement delay when swapping items.",
+	"authors": [
+		"wayysss"
+	],
+	"contact": {
+		"homepage": "https://modrinth.com",
+		"sources": "https://github.com/wayysss/ways-crystal-optimiser"
+	},
+	"license": "CC0-1.0",
+	"environment": "client",
+	"entrypoints": {
+		"modmenu": [
+			"com.wayysss.crystal.nsdmdmapi"
+		]
+	},
+	"mixins": [
+		"ways-crystal-optimiser.mixins.json"
+	],
+	"depends": {
+		"fabricloader": "*",
+		"minecraft": "*",
+		"java": "*"
+	}
+}
+
+
+
