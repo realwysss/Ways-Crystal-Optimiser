@@ -1,3 +1,5 @@
+<p align="center"><img src="src/main/resources/icon.png" width="128"></p>
+
 # ways crystal optimiser
 
 client side fabric mod for minecraft 1.21.11 that makes crystal pvp faster. it works while you hold an end crystal.
