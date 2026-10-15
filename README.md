@@ -21,3 +21,5 @@ you need fabric loader, and mod menu with cloth config for the settings screen. 
 `./gradlew build`, the jar ends up in build/libs.
 
 cc0, do what you want with it.
+
+all rights reserved. made by wysss.
